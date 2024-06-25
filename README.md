@@ -1,3 +1,3 @@
 # Shopsite
 
-https://tasilovprog.github.io/shopsite/res.html
+https://atasilov.github.io/shopsite/inedx.html
